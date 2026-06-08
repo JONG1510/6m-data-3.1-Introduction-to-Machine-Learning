@@ -68,6 +68,8 @@ You will:
 
 **Goal:** deepen the concepts with the instructor and build real skill.
 
+**Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, ML-fit checklist, 10-question review, L02–L10 course map)
+
 **Interactive walkthroughs →** open [`interactive/key-concepts.html`](./interactive/key-concepts.html) for an in-browser tour of the core ideas, and [`interactive/mcqs.html`](./interactive/mcqs.html) for a 10-question self-check quiz.
 
 **Notebooks — run in order:**
@@ -116,6 +118,7 @@ This lesson is **L01 of 10** in the DSAI M3 Machine Learning & GenAI course. Lat
 README.md                    ← You are here
 setup.md                     ← One-time environment setup (do this first)
 pre-class.md                 ← Before-class self-study guide (75 min)
+lesson.md                    ← Short reference: overview, takeaways, ML-fit checklist, review Q&A, course map
 reference.md                 ← Further reading and glossary
 environment.yml              ← Python environment for all 10 lessons
 interactive/
